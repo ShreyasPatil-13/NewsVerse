@@ -29,8 +29,10 @@ const NewsList = () => {
         const response = await fetch(apiUrl);
         const data = await response.json();
 
+        // Check if data.articles is defined before accessing it
+        const articles = data.articles || [];
         // Filter out news with missing or removed information
-        const filteredNews = data.articles.filter(
+        const filteredNews = articles.filter(
           (news) => news.title && news.url && news.title !== "[Removed]"
         );
 

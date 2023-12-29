@@ -93,7 +93,12 @@ const Navbar = () => {
                 </a>
                 <ul className="dropdown-menu">
                   <li>
-                    <a className="dropdown-item" href="/">
+                    <a
+                      className="dropdown-item"
+                      href="https://github.com/ShreyasPatil-13/NewsVerse"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Source code
                     </a>
                   </li>
