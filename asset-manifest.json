@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsVerse/static/css/main.cd7581a8.css",
+    "main.js": "/NewsVerse/static/js/main.50afa35c.js",
+    "static/js/787.32ca1217.chunk.js": "/NewsVerse/static/js/787.32ca1217.chunk.js",
+    "static/media/logo-black.png": "/NewsVerse/static/media/logo-black.11f0e07f35adf315e1d9.png",
+    "index.html": "/NewsVerse/index.html",
+    "main.cd7581a8.css.map": "/NewsVerse/static/css/main.cd7581a8.css.map",
+    "main.50afa35c.js.map": "/NewsVerse/static/js/main.50afa35c.js.map",
+    "787.32ca1217.chunk.js.map": "/NewsVerse/static/js/787.32ca1217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7581a8.css",
+    "static/js/main.50afa35c.js"
+  ]
+}
